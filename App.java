@@ -11,9 +11,7 @@ public class App {
 		generateToken();
 	}
 
-	/**
-	 * Mediafy will call this method to generate token
-	 */
+
 	private static void generateToken() {
 		//We will make sure that the four variables consist the appropriate value within the specified digit
 		
